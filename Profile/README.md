@@ -1,6 +1,12 @@
 <h1 align="center"> SnapCal C241-PS012 | Your Daily Calories Tracker </h1> <br>
 
 <p align="center">
+  <a>
+    <img alt="SnapCal" title="SnapCal" src="https://github.com/SnapCal/.github/blob/main/Profile/Logo.png" width="300" height="300">
+  </a>
+</p>
+
+<p align="center">
 </p>
 
 # Introduction
