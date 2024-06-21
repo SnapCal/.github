@@ -45,7 +45,7 @@ Our project addresses these challenges by utilizing technology to detect specifi
 
 <p align="center">
   <a href="">
-    <img src="https://img.youtube.com/vi/Ok-KT-8Rl9Q/0.jpg" alt="Video Demo">
+    <img src= alt="Video Demo">
   </a>
 </p>
 
